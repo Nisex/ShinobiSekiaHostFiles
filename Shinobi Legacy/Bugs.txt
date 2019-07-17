@@ -1,0 +1,2449 @@
+Loaded Subscriber stuff.
+All books have been loaded.
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 3, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(3)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 3, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 3, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(3)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 3, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 7, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(7)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 7, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(7)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 7, "Basic")
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 7, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 3, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(3)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 3, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 6, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(6)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 6, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 2, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(2)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 2, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 12, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(12)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 12, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 18, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(18)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 18, "Basic")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Haruno, Tameshi (/mob/player)
+  src.loc: the stadium10 (175,120,29) (/turf/stadium10)
+  call stack:
+Haruno, Tameshi (/mob/player): Attacking(null, 8, "Basic")
+Haruno, Tameshi (/mob/player): AttackVerb(8)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot modify null.inchoke.
+proc name: Choke (/mob/proc/Choke)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+Wed Jul 10 23:56:41 2019
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot modify null.MazeG.
+proc name: Del (/obj/Jutsu/Spider/web/Del)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Warning: further proc crash messages are being suppressed to prevent overload...
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: the floorw (124,40,21) (/turf/floorw)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.OOC.
+proc name: Click (/turf/Finished/Click)
+  usr: null
+  src: Finished (128,3,20) (/turf/Finished)
+  call stack:
+Finished (128,3,20) (/turf/Finished): Click(Finished (128,3,20) (/turf/Finished), "leftpane.map", "icon-x=26;icon-y=23;left=1;scr...")
+Thu Jul 11 00:58:36 2019
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+  usr: 0
+  src: Shenza (/obj/Jutsu/Spider/kunai)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/obj/Jutsu/Spider/kunai): Bump(null)
+Shenza (/obj/Jutsu/Spider/kunai): Move(the floorw (118,6,21) (/turf/floorw), 2)
+Shenza (/obj/Jutsu/Spider/kunai): Move(the floorw (118,6,21) (/turf/floorw), 2)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+  usr: 0
+  src: Shenza (/obj/Jutsu/Spider/kunai)
+  src.loc: the floorw (118,6,21) (/turf/floorw)
+  call stack:
+Shenza (/obj/Jutsu/Spider/kunai): Bump(null)
+Shenza (/obj/Jutsu/Spider/kunai): Move(the floorw (118,5,21) (/turf/floorw), 2)
+Shenza (/obj/Jutsu/Spider/kunai): Move(the floorw (118,5,21) (/turf/floorw), 2)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+  usr: 0
+  src: Shenza (/obj/Jutsu/Spider/kunai)
+  src.loc: the floorw (118,6,21) (/turf/floorw)
+  call stack:
+Shenza (/obj/Jutsu/Spider/kunai): Bump(null)
+Shenza (/obj/Jutsu/Spider/kunai): Move(the floorw (118,5,21) (/turf/floorw), 2)
+Shenza (/obj/Jutsu/Spider/kunai): Move(the floorw (118,5,21) (/turf/floorw), 2)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: Bed Covers (118,7,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  call stack:
+Shenza (/mob/player): KumosoukaZ()
+Spider Cobweb Flower (/obj/SkillCards/Kumosouka): Activate(Shenza (/mob/player))
+Shenza (/mob/player): Slot(5)
+Shenza (/mob/player): Slot5()
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+Thu Jul 11 02:04:46 2019
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.health
+proc name: Entered (/turf/waterfall1/Entered)
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+World opened on network port 63446.
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+  usr: null
+  src: LoadGame (/obj/CreationScreen/LoadGame)
+  src.loc: null
+  call stack:
+LoadGame (/obj/CreationScreen/LoadGame): Click(null, "leftpane.map", "icon-x=11;icon-y=17;left=1;scr...")
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+  usr: null
+  src: LoadGame (/obj/CreationScreen/LoadGame)
+  src.loc: null
+  call stack:
+LoadGame (/obj/CreationScreen/LoadGame): Click(null, "leftpane.map", "icon-x=16;icon-y=19;left=1;scr...")
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Sabaku, Konahri (/mob/player)
+  src.loc: the beach (55,95,14) (/turf/beach)
+  call stack:
+Sabaku, Konahri (/mob/player): Attacking(null, 0.5, "Basic")
+Sabaku, Konahri (/mob/player): AttackVerb(0.5)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Sabaku, Konahri (/mob/player)
+  src.loc: the beach (55,95,14) (/turf/beach)
+  call stack:
+Sabaku, Konahri (/mob/player): Attacking(null, 0.5, "Basic")
+Loaded Subscriber stuff.
+All books have been loaded.
+Thu Jul 11 03:05:47 2019
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+  usr: Sabaku, Konahri (/mob/player)
+  src: Explosion (/obj/Jutsu/Explosion)
+  usr.loc: the beach (80,99,14) (/turf/beach)
+  src.loc: the mudedge3 (48,100,14) (/turf/Landscapes/Mud/mudedge3)
+  call stack:
+Explosion (/obj/Jutsu/Explosion): New()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (126,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Yes?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (128,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Yes?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (130,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Yes?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (126,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Senjus regen")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (128,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Senjus regen")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (130,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Senjus regen")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: House15 (128,72,29) (/turf/Buildings/Furnature/Chairs/House15)
+  src.loc: FLoor (126,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("No like mutation or bijuu or n...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: House15 (128,72,29) (/turf/Buildings/Furnature/Chairs/House15)
+  src.loc: FLoor (128,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("No like mutation or bijuu or n...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: House15 (128,72,29) (/turf/Buildings/Furnature/Chairs/House15)
+  src.loc: FLoor (130,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("No like mutation or bijuu or n...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (126,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Senju regen like Kasukes")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (128,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Senju regen like Kasukes")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: FLoor (127,74,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (130,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("Senju regen like Kasukes")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: House15 (128,72,29) (/turf/Buildings/Furnature/Chairs/House15)
+  src.loc: FLoor (126,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("I know, it just feels like its...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: House15 (128,72,29) (/turf/Buildings/Furnature/Chairs/House15)
+  src.loc: FLoor (128,73,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("I know, it just feels like its...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+Thu Jul 11 04:06:10 2019
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.images
+proc name: BunshinSubsitutionTechniques (/mob/proc/BunshinSubsitutionTechniques)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.key
+proc name: Give Staff Position (/mob/owner/verb/GiveStaffPosition)
+runtime error: Cannot read null.key
+proc name: Give Staff Position (/mob/owner/verb/GiveStaffPosition)
+Warning: further proc crash messages are being suppressed to prevent overload...
+Thu Jul 11 07:30:09 2019
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+  usr: null
+  src: LoadGame (/obj/CreationScreen/LoadGame)
+  src.loc: null
+  call stack:
+LoadGame (/obj/CreationScreen/LoadGame): Click(null, "leftpane.map", "icon-x=14;icon-y=11;left=1;scr...")
+Loaded Subscriber stuff.
+All books have been loaded.
+World opened on network port 63446.
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kasuke, Azoran (/mob/player)
+  src: Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine)
+  usr.loc: Bed (105,67,29) (/turf/Buildings/Furnature/Bed/House1)
+  src.loc: FLoor (100,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Kasuke, Azoran (/mob/player): Emote()
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kaguya, Akkuni (/mob/player)
+  src: Adroushan (/mob/New_Teachers/Katon_Fire_Master)
+  usr.loc: the grassedge7 (61,79,4) (/turf/Landscapes/Grass/grassedge7)
+  src.loc: the grassedge3 (51,85,4) (/turf/Landscapes/Grass/grassedge3)
+  call stack:
+Adroushan (/mob/New_Teachers/Katon_Fire_Master): logtext("<font face=\"Century Gothic, A...")
+Kaguya, Akkuni (/mob/player): Say("should be somewhere around the...")
+runtime error: Cannot read "".SizeRating
+proc name: ImpaleTechnique (/mob/proc/ImpaleTechnique)
+  usr: (src)
+  src: Kaguya, Akkuni (/mob/player)
+  src.loc: the grass (162,177,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Kaguya, Akkuni (/mob/player): ImpaleTechnique("Left")
+Impale (/obj/SkillCards/Impale): Activate(Kaguya, Akkuni (/mob/player))
+Impale (/obj/SkillCards/Impale): Click("22", "Jutsu.Jutsus", "icon-x=68;icon-y=1;left=1;drag...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Wolf (/mob/NPC/Animals/Wolf)
+  usr.loc: the grass (187,13,2) (/turf/Landscapes/Grass/grass)
+  src.loc: the grass (172,15,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Wolf (/mob/NPC/Animals/Wolf): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Fierce Wolf (/mob/NPC/Animals/FierceWolf)
+  usr.loc: the grass (187,13,2) (/turf/Landscapes/Grass/grass)
+  src.loc: the grass (180,4,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Fierce Wolf (/mob/NPC/Animals/FierceWolf): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Fierce Wolf (/mob/NPC/Animals/FierceWolf)
+  usr.loc: the grass (187,13,2) (/turf/Landscapes/Grass/grass)
+  src.loc: the grass (187,14,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Fierce Wolf (/mob/NPC/Animals/FierceWolf): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Wolf (/mob/NPC/Animals/Wolf)
+  usr.loc: the grass (187,13,2) (/turf/Landscapes/Grass/grass)
+  src.loc: the grass (189,21,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Wolf (/mob/NPC/Animals/Wolf): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+Thu Jul 11 08:34:48 2019
+runtime error: Cannot read null.resting
+proc name: Rest (/turf/Buildings/Scenary/Bench2/verb/Rest)
+  usr: null
+  src: Bench2 (90,54,2) (/turf/Buildings/Scenary/Bench2)
+  call stack:
+Bench2 (90,54,2) (/turf/Buildings/Scenary/Bench2): Rest()
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+  usr: null
+  src: LoadGame (/obj/CreationScreen/LoadGame)
+  src.loc: null
+  call stack:
+LoadGame (/obj/CreationScreen/LoadGame): Click(null, "leftpane.map", "icon-x=7;icon-y=13;left=1;scre...")
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+  usr: null
+  src: LoadGame (/obj/CreationScreen/LoadGame)
+  src.loc: null
+  call stack:
+LoadGame (/obj/CreationScreen/LoadGame): Click(null, "leftpane.map", "icon-x=7;icon-y=13;left=1;scre...")
+runtime error: Cannot read null.client
+proc name: Click (/obj/CreationScreen/LoadGame/Click)
+  usr: null
+  src: LoadGame (/obj/CreationScreen/LoadGame)
+  src.loc: null
+  call stack:
+LoadGame (/obj/CreationScreen/LoadGame): Click(null, "leftpane.map", "icon-x=9;icon-y=16;left=1;scre...")
+Thu Jul 11 09:57:53 2019
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+  usr: null
+  src: Bed (149,150,29) (/turf/Buildings/Furnature/Bed/House1)
+  call stack:
+Bed (149,150,29) (/turf/Buildings/Furnature/Bed/House1): Enter(null, FLoor (148,150,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor))
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the grass (140,8,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(1)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the grass (140,7,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(1)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the grass (140,7,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(0.5)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the grass (140,7,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(1)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the beach (137,5,3) (/turf/beach)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(0.5)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the beach (136,5,3) (/turf/beach)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(0)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+  usr: (src)
+  src: Uchiha, Asahi (/mob/player)
+  src.loc: the grass (115,181,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Asahi (/mob/player): AttackVerb2(0.5)
+Uchiha, Asahi (/mob/player): A2()
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Spider/kunai/Bump)
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot read null.ammount
+proc name: AttackVerb2 (/mob/proc/AttackVerb2)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Thu Jul 11 11:01:32 2019
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+Thu Jul 11 12:01:36 2019
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.Stun.
+proc name: Attacking (/mob/proc/Attacking)
+Warning: further proc crash messages are being suppressed to prevent overload...
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+  usr: Uchiha, Kato (/mob/player)
+  src: Explosion (/obj/Jutsu/Explosion)
+  usr.loc: the floorw (62,93,21) (/turf/floorw)
+  src.loc: the floorw (62,93,21) (/turf/floorw)
+  call stack:
+Explosion (/obj/Jutsu/Explosion): New()
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+  usr: Uchiha, Kato (/mob/player)
+  src: Explosion (/obj/Jutsu/Explosion)
+  usr.loc: the floorw (62,93,21) (/turf/floorw)
+  src.loc: the floorw (62,93,21) (/turf/floorw)
+  call stack:
+Explosion (/obj/Jutsu/Explosion): New()
+runtime error: Cannot modify null.HoldingR.
+proc name: Activate (/obj/SkillCards/Goukakyuu/Activate)
+  usr: null
+  src: Great Fireball Jutsu (/obj/SkillCards/Goukakyuu)
+  src.loc: null
+  call stack:
+Great Fireball Jutsu (/obj/SkillCards/Goukakyuu): Activate(null)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kaguya, Akkuni (/mob/player)
+  src: Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine)
+  usr.loc: FLoor (106,61,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (100,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Kaguya, Akkuni (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kaguya, Akkuni (/mob/player)
+  src: Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine)
+  usr.loc: FLoor (106,61,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  src.loc: FLoor (106,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Kaguya, Akkuni (/mob/player): Emote()
+Thu Jul 11 13:04:00 2019
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+  usr: Uchiha, Kato (/mob/player)
+  src: Explosion (/obj/Jutsu/Explosion)
+  usr.loc: House17 (62,95,21) (/turf/Buildings/Furnature/Chairs/House17)
+  src.loc: House17 (62,95,21) (/turf/Buildings/Furnature/Chairs/House17)
+  call stack:
+Explosion (/obj/Jutsu/Explosion): New()
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+  usr: Uchiha, Kato (/mob/player)
+  src: Explosion (/obj/Jutsu/Explosion)
+  usr.loc: House17 (62,95,21) (/turf/Buildings/Furnature/Chairs/House17)
+  src.loc: House17 (62,95,21) (/turf/Buildings/Furnature/Chairs/House17)
+  call stack:
+Explosion (/obj/Jutsu/Explosion): New()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Sabu, Hiru(NPC) (/mob/NPC/MerchantNPCs/RockVillage/SabuArtShop)
+  usr.loc: the path (13,103,34) (/turf/Landscapes/Path/path)
+  src.loc: the path (8,110,34) (/turf/Landscapes/Path/path)
+  call stack:
+Sabu, Hiru(NPC) (/mob/NPC/MerchantNPCs/RockVillage/SabuArtShop): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("x")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Sun (/mob/player)
+  src: Iwazuka, Aeon (/mob/Teachers/RockJounin11)
+  usr.loc: the path (13,103,34) (/turf/Landscapes/Path/path)
+  src.loc: the path (13,107,34) (/turf/Landscapes/Path/path)
+  call stack:
+Iwazuka, Aeon (/mob/Teachers/RockJounin11): logtext("<font face=\"Century Gothic, A...")
+Sun (/mob/player): Say("x")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Renden, Sun (/mob/player)
+  src: Sabu, Hiru(NPC) (/mob/NPC/MerchantNPCs/RockVillage/SabuArtShop)
+  usr.loc: the path (14,104,34) (/turf/Landscapes/Path/path)
+  src.loc: the path (8,110,34) (/turf/Landscapes/Path/path)
+  call stack:
+Sabu, Hiru(NPC) (/mob/NPC/MerchantNPCs/RockVillage/SabuArtShop): logtext("<font face=\"Century Gothic, A...")
+Renden, Sun (/mob/player): Say("x")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Renden, Sun (/mob/player)
+  src: Iwazuka, Aeon (/mob/Teachers/RockJounin11)
+  usr.loc: the path (14,104,34) (/turf/Landscapes/Path/path)
+  src.loc: the path (13,107,34) (/turf/Landscapes/Path/path)
+  call stack:
+Iwazuka, Aeon (/mob/Teachers/RockJounin11): logtext("<font face=\"Century Gothic, A...")
+Renden, Sun (/mob/player): Say("x")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine)
+  usr.loc: Bench1 (100,58,29) (/turf/Buildings/Scenary/Bench1)
+  src.loc: FLoor (100,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine)
+  usr.loc: Bench1 (100,58,29) (/turf/Buildings/Scenary/Bench1)
+  src.loc: FLoor (106,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kaguya, Akkuni (/mob/player)
+  src: Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine)
+  usr.loc: Bench1 (104,60,29) (/turf/Buildings/Scenary/Bench1)
+  src.loc: FLoor (100,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Kaguya, Akkuni (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kaguya, Akkuni (/mob/player)
+  src: Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine)
+  usr.loc: Bench1 (104,60,29) (/turf/Buildings/Scenary/Bench1)
+  src.loc: FLoor (106,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Kaguya, Akkuni (/mob/player): Emote()
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine)
+  usr.loc: Bench1 (100,58,29) (/turf/Buildings/Scenary/Bench1)
+  src.loc: FLoor (102,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Vegan Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vegan_Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine)
+  usr.loc: Bench1 (100,58,29) (/turf/Buildings/Scenary/Bench1)
+  src.loc: FLoor (106,62,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor)
+  call stack:
+Snack Vending Machine(NPC) (/mob/NPC/MerchantNPCs/RainVillage/Vending_Machine): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Stitch (/mob/player)
+  src: Mex (/mob/Teachers/Rock_Meteor_Teacher)
+  usr.loc: the beach (43,99,14) (/turf/beach)
+  src.loc: the mud (39,102,14) (/turf/Landscapes/Mud/mud)
+  call stack:
+Mex (/mob/Teachers/Rock_Meteor_Teacher): logtext("<font face=\"Century Gothic, A...")
+Stitch (/mob/player): Say("test")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Stitch (/mob/player)
+  src: Kiro Rian (/mob/Teachers/RockJounin5)
+  usr.loc: the beach (43,99,14) (/turf/beach)
+  src.loc: the beach (52,92,14) (/turf/beach)
+  call stack:
+Kiro Rian (/mob/Teachers/RockJounin5): logtext("<font face=\"Century Gothic, A...")
+Stitch (/mob/player): Say("test")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.resting
+proc name: Rest (/turf/Buildings/Furnature/Chairs/verb/Rest)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read 103.Allies
+proc name: DeathStruggle (/mob/proc/DeathStruggle)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Thu Jul 11 14:06:53 2019
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.Deflection.
+proc name: Kara (/mob/proc/Kara)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Kaguya/TeshiSendan/Bump)
+runtime error: Cannot execute null.SoundEngine().
+proc name: Bump (/obj/Jutsu/Kaguya/TeshiSendan/Bump)
+runtime error: Cannot modify null.Deflection.
+proc name: Kara (/mob/proc/Kara)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.Deflection.
+proc name: Kara (/mob/proc/Kara)
+runtime error: Cannot execute null.Bloody().
+proc name: Bump (/obj/Jutsu/Kaguya/TeshiSendan/Bump)
+runtime error: Cannot execute null.SoundEngine().
+proc name: Bump (/obj/Jutsu/Kaguya/TeshiSendan/Bump)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+runtime error: Cannot modify null.dir.
+proc name: KumosoukaZ (/mob/proc/KumosoukaZ)
+Thu Jul 11 16:27:25 2019
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.images
+proc name: Kawa2 (/mob/proc/Kawa2)
+runtime error: Cannot read null.images
+proc name: Kawa2 (/mob/proc/Kawa2)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.images
+proc name: Kawa2 (/mob/proc/Kawa2)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.images
+proc name: Kawa2 (/mob/proc/Kawa2)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+Thu Jul 11 17:45:28 2019
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.resting
+proc name: Rest (/turf/Buildings/Scenary/Bench2/verb/Rest)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.images
+proc name: Kawa2 (/mob/proc/Kawa2)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+runtime error: Cannot modify null.Stun.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.x
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+Thu Jul 11 18:48:57 2019
+Warning: further proc crash messages are being suppressed to prevent overload...
+Fri Jul 12 07:47:53 2019
+Loaded Subscriber stuff.
+All books have been loaded.
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Momochi, Enma (/mob/player)
+  src: Village War Sage (/mob/villageWarNPC/villageOne)
+  usr.loc: the path (83,76,6) (/turf/Landscapes/Path/path)
+  src.loc: Floor2 (76,78,6) (/turf/Buildings/Rainwalls/Floor2)
+  call stack:
+Village War Sage (/mob/villageWarNPC/villageOne): logtext("<font face=\"Century Gothic, A...")
+Momochi, Enma (/mob/player): Emote()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+Fri Jul 12 08:48:08 2019
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot execute null.CaughtInGenjutsu().
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.resting
+proc name: Rest (/turf/Buildings/Furnature/Chairs/verb/Rest)
+  usr: null
+  src: House17 (161,37,34) (/turf/Buildings/Furnature/Chairs/House17)
+  call stack:
+House17 (161,37,34) (/turf/Buildings/Furnature/Chairs/House17): Rest()
+Fri Jul 12 09:53:18 2019
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+  usr: null
+  src: Bed (162,124,29) (/turf/Buildings/Furnature/Bed/House1)
+  call stack:
+Bed (162,124,29) (/turf/Buildings/Furnature/Bed/House1): Enter(null, FLoor (163,124,29) (/turf/Buildings/Rainwalls/InsideBuildings/FLoor))
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+  usr: Uchiha, Asahi (/mob/player)
+  src: AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu)
+  usr.loc: Bed Covers (7,97,21) (/turf/Buildings/Furnature/Bed/House1/BedCovers)
+  src.loc: the floorw (8,97,21) (/turf/floorw)
+  call stack:
+AOEGenjutsu (/obj/Genjutsu/AOEGenjutsu): New()
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+runtime error: Cannot read null.gencounter
+proc name: New (/obj/Genjutsu/AOEGenjutsu/New)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Fri Jul 12 12:16:50 2019
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+runtime error: Cannot read 104.Allies
+proc name: DeathStruggle (/mob/proc/DeathStruggle)
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+runtime error: Cannot read null.client
+proc name: ExpGain (/mob/proc/ExpGain)
+runtime error: Cannot read null.x
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot execute null.HitBack().
+proc name: Asshou (/mob/proc/Asshou)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.icon
+proc name: pic5 (/atom/proc/pic5)
+runtime error: Cannot read null.icon
+proc name: pic (/atom/proc/pic)
+runtime error: Cannot read null.icon
+proc name: pic6 (/atom/proc/pic6)
+runtime error: Cannot read null.icon
+proc name: pic7 (/atom/proc/pic7)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.icon
+proc name: pic5 (/atom/proc/pic5)
+runtime error: Cannot read null.icon
+proc name: pic (/atom/proc/pic)
+runtime error: Cannot read null.icon
+proc name: pic6 (/atom/proc/pic6)
+runtime error: Cannot read null.icon
+proc name: pic7 (/atom/proc/pic7)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+runtime error: Cannot read null.client
+proc name: Enter (/turf/Buildings/Furnature/Bed/House1/Enter)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot modify null.CanRest.
+proc name: Rest (/turf/Buildings/Scenary/Bench2/verb/Rest)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.x
+proc name: Bump (/mob/Bump)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+Fri Jul 12 13:20:06 2019
+runtime error: Cannot read null.resting
+proc name: Rest (/turf/Buildings/Scenary/Bench2/verb/Rest)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+Warning: further proc crash messages are being suppressed to prevent overload...
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+  usr: (src)
+  src: Kumojin, Super Goku (/mob/player)
+  src.loc: the pathedge1 (59,102,11) (/turf/Landscapes/Path/pathedge1)
+  call stack:
+Kumojin, Super Goku (/mob/player): picFace()
+Shirt (/obj/Clothes/Shirt): Wear()
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+  usr: (src)
+  src: Kumojin, Super Goku (/mob/player)
+  src.loc: the pathedge1 (59,102,11) (/turf/Landscapes/Path/pathedge1)
+  call stack:
+Kumojin, Super Goku (/mob/player): picFace()
+Pants (/obj/Clothes/Pants): Wear()
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+  usr: (src)
+  src: Kumojin, Super Goku (/mob/player)
+  src.loc: the pathedge1 (59,102,11) (/turf/Landscapes/Path/pathedge1)
+  call stack:
+Kumojin, Super Goku (/mob/player): picFace()
+Shoes (/obj/Clothes/Shoes): Wear()
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+  usr: (src)
+  src: Kumojin, Super Goku (/mob/player)
+  src.loc: the pathedge1 (59,102,11) (/turf/Landscapes/Path/pathedge1)
+  call stack:
+Kumojin, Super Goku (/mob/player): picFace()
+Head Band (/obj/Clothes/Headband): Wear()
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Uchiha, Yorokobi (/mob/player)
+  src: Training_Scroll_Merchant(NPC) (/mob/NPC/MerchantNPCs/NonVillage/Training_Scroll_Merchant)
+  usr.loc: the grassedge3 (129,45,2) (/turf/Landscapes/Grass/grassedge3)
+  src.loc: the zDensity (117,54,2) (/turf/Buildings/zDensity)
+  call stack:
+Training_Scroll_Merchant(NPC) (/mob/NPC/MerchantNPCs/NonVillage/Training_Scroll_Merchant): logtext("<font face=\"Century Gothic, A...")
+Uchiha, Yorokobi (/mob/player): Say("say \[Yikes]")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Uchiha, Yorokobi (/mob/player)
+  src: Gekko The Scrollsmen(NPC) (/mob/NPC/MerchantNPCs/NonVillage/AncientScrollSeller)
+  usr.loc: the grassedge3 (129,45,2) (/turf/Landscapes/Grass/grassedge3)
+  src.loc: the zDensity (129,54,2) (/turf/Buildings/zDensity)
+  call stack:
+Gekko The Scrollsmen(NPC) (/mob/NPC/MerchantNPCs/NonVillage/AncientScrollSeller): logtext("<font face=\"Century Gothic, A...")
+Uchiha, Yorokobi (/mob/player): Say("say \[Yikes]")
+Fri Jul 12 14:21:43 2019
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Uchiha, Yorokobi (/mob/player)
+  src: Training_Scroll_Merchant(NPC) (/mob/NPC/MerchantNPCs/NonVillage/Training_Scroll_Merchant)
+  usr.loc: the grassedge3 (128,45,2) (/turf/Landscapes/Grass/grassedge3)
+  src.loc: the zDensity (117,54,2) (/turf/Buildings/zDensity)
+  call stack:
+Training_Scroll_Merchant(NPC) (/mob/NPC/MerchantNPCs/NonVillage/Training_Scroll_Merchant): logtext("<font face=\"Century Gothic, A...")
+Uchiha, Yorokobi (/mob/player): Say("So, I hope you\'re living bett...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Uchiha, Yorokobi (/mob/player)
+  src: Gekko The Scrollsmen(NPC) (/mob/NPC/MerchantNPCs/NonVillage/AncientScrollSeller)
+  usr.loc: the grassedge3 (128,45,2) (/turf/Landscapes/Grass/grassedge3)
+  src.loc: the zDensity (129,54,2) (/turf/Buildings/zDensity)
+  call stack:
+Gekko The Scrollsmen(NPC) (/mob/NPC/MerchantNPCs/NonVillage/AncientScrollSeller): logtext("<font face=\"Century Gothic, A...")
+Uchiha, Yorokobi (/mob/player): Say("So, I hope you\'re living bett...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Super Naruto (/mob/player)
+  src: Rai (/mob/Teachers/SoundJounin14)
+  usr.loc: StoneFloor3 (84,85,4) (/turf/StoneFloor3)
+  src.loc: the grass (101,90,4) (/turf/Landscapes/Grass/grass)
+  call stack:
+Rai (/mob/Teachers/SoundJounin14): logtext("<font face=\"Century Gothic, A...")
+Super Naruto (/mob/player): Say("WTF IS THIS BUG")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Stitch (/mob/player)
+  src: Training_Scroll_Merchant(NPC) (/mob/NPC/MerchantNPCs/NonVillage/Training_Scroll_Merchant)
+  usr.loc: the grassedge3 (132,45,2) (/turf/Landscapes/Grass/grassedge3)
+  src.loc: the zDensity (117,54,2) (/turf/Buildings/zDensity)
+  call stack:
+Training_Scroll_Merchant(NPC) (/mob/NPC/MerchantNPCs/NonVillage/Training_Scroll_Merchant): logtext("<font face=\"Century Gothic, A...")
+Stitch (/mob/player): Say("I have no home. I live where I...")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Stitch (/mob/player)
+  src: Gekko The Scrollsmen(NPC) (/mob/NPC/MerchantNPCs/NonVillage/AncientScrollSeller)
+  usr.loc: the grassedge3 (132,45,2) (/turf/Landscapes/Grass/grassedge3)
+  src.loc: the zDensity (129,54,2) (/turf/Buildings/zDensity)
+  call stack:
+Gekko The Scrollsmen(NPC) (/mob/NPC/MerchantNPCs/NonVillage/AncientScrollSeller): logtext("<font face=\"Century Gothic, A...")
+Stitch (/mob/player): Say("I have no home. I live where I...")
+runtime error: Cannot read null.client
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Super Naruto (/mob/player)
+  src.loc: StoneFloor3 (86,85,4) (/turf/StoneFloor3)
+  call stack:
+Super Naruto (/mob/player): Attacking(null, 0, "Basic")
+Super Naruto (/mob/player): AttackVerb(0)
+runtime error: Cannot read null.client
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Super Naruto (/mob/player)
+  src.loc: StoneFloor3 (86,85,4) (/turf/StoneFloor3)
+  call stack:
+Super Naruto (/mob/player): Attacking(null, 0, "Basic")
+Super Naruto (/mob/player): AttackVerb(0)
+Loaded Subscriber stuff.
+All books have been loaded.
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grassedge3 (140,79,2) (/turf/Landscapes/Grass/grassedge3)
+  call stack:
+Stitch (/mob/player): SliceHit(Ion (/mob/Teachers/MissingJounin6), 0.08, "Normal", 2, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(2)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (115,166,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Fierce Wolf (/mob/NPC/Animals/FierceWolf), 0.08, "Normal", 3.5, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(3.5)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (120,180,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 3.5, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(3.5)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.images
+proc name: Multi Shadow Clone (/mob/proc/Multi_Shadow_Clone)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (129,186,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): Multi Shadow Clone(219)
+Mass Shadow Clone Jutsu (/obj/SkillCards/TKageBunshin): Activate(Stitch (/mob/player))
+Stitch (/mob/player): Slot(8)
+Stitch (/mob/player): Slot8()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (135,190,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 1.5, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(1.5)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (58,20,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Fierce Wolf (/mob/NPC/Animals/FierceWolf), 0.08, "Normal", 3, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(3)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (80,27,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 4.5, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(4.5)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (21,64,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 0.5, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(0.5)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (29,69,2) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 25, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(25)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (130,6,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 4, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(4)
+Stitch (/mob/player): A()
+runtime error: Cannot read null.screen
+proc name: SliceHit (/mob/proc/SliceHit)
+  usr: (src)
+  src: Stitch (/mob/player)
+  src.loc: the grass (140,15,3) (/turf/Landscapes/Grass/grass)
+  call stack:
+Stitch (/mob/player): SliceHit(Wolf (/mob/NPC/Animals/Wolf), 0.08, "Normal", 4, 1, 0, 3, 10, 0)
+Stitch (/mob/player): AttackVerb(4)
+Stitch (/mob/player): A()
+runtime error: Cannot modify null.inchoke.
+proc name: Choke (/mob/proc/Choke)
+  usr: (src)
+  src: Shenza (/mob/player)
+  src.loc: the grassedge4 (81,84,4) (/turf/Landscapes/Grass/grassedge4)
+  call stack:
+Shenza (/mob/player): Choke()
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+  usr: (src)
+  src: Renden, Sun (/mob/player)
+  src.loc: the mud (109,163,19) (/turf/Landscapes/Mud/mud)
+  call stack:
+Renden, Sun (/mob/player): picFace()
+Tsuchikage Suit (/obj/Clothes/TsuchikageSuit): Wear()
+runtime error: Cannot read null.icon
+proc name: picFace (/atom/proc/picFace)
+  usr: (src)
+  src: Renden, Sun (/mob/player)
+  src.loc: the mud (103,170,19) (/turf/Landscapes/Mud/mud)
+  call stack:
+Renden, Sun (/mob/player): picFace()
+Rock Jounin suit (/obj/Clothes/RJouninsuit): Wear()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (58,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (61,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (64,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (58,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (61,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Emote()
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (64,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Emote()
+runtime error: Cannot execute null.DamageProc().
+proc name: New (/obj/Jutsu/Explosion/New)
+  usr: Uchiha, Kato (/mob/player)
+  src: Explosion (/obj/Jutsu/Explosion)
+  usr.loc: the grass (77,91,4) (/turf/Landscapes/Grass/grass)
+  src.loc: the grassedge4 (79,96,4) (/turf/Landscapes/Grass/grassedge4)
+  call stack:
+Explosion (/obj/Jutsu/Explosion): New()
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Uchiha, Kato (/mob/player)
+  src.loc: the grass (77,94,4) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Kato (/mob/player): Attacking(null, 1, "Basic")
+Uchiha, Kato (/mob/player): AttackVerb(1)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+  usr: (src)
+  src: Uchiha, Kato (/mob/player)
+  src.loc: the grass (77,94,4) (/turf/Landscapes/Grass/grass)
+  call stack:
+Uchiha, Kato (/mob/player): Attacking(null, 1, "Basic")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (58,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Say("Make me like Orochimaru")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (61,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Say("Make me like Orochimaru")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Kumojin, Adateus (/mob/player)
+  src: Barber (/mob/tailor)
+  usr.loc: the path (59,186,1) (/turf/Landscapes/Path/path)
+  src.loc: the path (64,188,1) (/turf/Landscapes/Path/path)
+  call stack:
+Barber (/mob/tailor): logtext("<font face=\"Century Gothic, A...")
+Kumojin, Adateus (/mob/player): Say("Make me like Orochimaru")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Shenza (/mob/player)
+  src: Kumo Spider(NPC) (/mob/NPC/KumojinSpider)
+  usr.loc: the grass (73,87,4) (/turf/Landscapes/Grass/grass)
+  src.loc: the grassedge93 (74,84,4) (/turf/Landscapes/Grass/grassedge93)
+  call stack:
+Kumo Spider(NPC) (/mob/NPC/KumojinSpider): logtext("<font face=\"Century Gothic, A...")
+Shenza (/mob/player): Say("Fighting huh?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Shenza (/mob/player)
+  src: Kumo Spider(NPC) (/mob/NPC/KumojinSpider)
+  usr.loc: the grass (73,87,4) (/turf/Landscapes/Grass/grass)
+  src.loc: Home2 (75,83,4) (/turf/Buildings/Sound/Home2)
+  call stack:
+Kumo Spider(NPC) (/mob/NPC/KumojinSpider): logtext("<font face=\"Century Gothic, A...")
+Shenza (/mob/player): Say("Fighting huh?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Shenza (/mob/player)
+  src: Kumo Spider(NPC) (/mob/NPC/KumojinSpider)
+  usr.loc: the grass (73,87,4) (/turf/Landscapes/Grass/grass)
+  src.loc: the grassedge4 (75,84,4) (/turf/Landscapes/Grass/grassedge4)
+  call stack:
+Kumo Spider(NPC) (/mob/NPC/KumojinSpider): logtext("<font face=\"Century Gothic, A...")
+Shenza (/mob/player): Say("Fighting huh?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Shenza (/mob/player)
+  src: Kumo Spider(NPC) (/mob/NPC/KumojinSpider)
+  usr.loc: the grass (73,87,4) (/turf/Landscapes/Grass/grass)
+  src.loc: StoneFloor3 (75,85,4) (/turf/StoneFloor3)
+  call stack:
+Kumo Spider(NPC) (/mob/NPC/KumojinSpider): logtext("<font face=\"Century Gothic, A...")
+Shenza (/mob/player): Say("Fighting huh?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+  usr: Shenza (/mob/player)
+  src: Kumo Spider(NPC) (/mob/NPC/KumojinSpider)
+  usr.loc: the grass (73,87,4) (/turf/Landscapes/Grass/grass)
+  src.loc: Home2 (76,83,4) (/turf/Buildings/Sound/Home2)
+  call stack:
+Kumo Spider(NPC) (/mob/NPC/KumojinSpider): logtext("<font face=\"Century Gothic, A...")
+Shenza (/mob/player): Say("Fighting huh?")
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Fri Jul 12 15:22:15 2019
+Loaded Subscriber stuff.
+All books have been loaded.
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.images
+proc name: Kawa2 (/mob/proc/Kawa2)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.RaiArmor
+proc name: Attacking15 (/mob/proc/Attacking15)
+runtime error: Cannot read null.icon
+proc name: pic5 (/atom/proc/pic5)
+runtime error: Cannot read null.icon
+proc name: pic (/atom/proc/pic)
+runtime error: Cannot read null.icon
+proc name: pic6 (/atom/proc/pic6)
+runtime error: Cannot read null.icon
+proc name: pic7 (/atom/proc/pic7)
+runtime error: Cannot modify null.RushLimitz.
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.x
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot execute null.HitBack().
+proc name: Attacking (/mob/proc/Attacking)
+runtime error: Cannot read null.x
+proc name: Bump (/mob/Bump)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+runtime error: Cannot read null.script
+proc name: logtext (/mob/proc/logtext)
+Warning: further proc crash messages are being suppressed to prevent overload...
